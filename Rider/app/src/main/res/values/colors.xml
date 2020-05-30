@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#2196f3</color>
+    <color name="colorAccent">#0d47a1</color>
+    <color name="text_color">#000</color>
+    <color name="center_button_color">#FF6600</color>
+    <color name="action_bar_color">#e65100</color>
+    <color name="title_color">#fff</color>
+    <color name="colorJeepCount">#d50000</color>
+</resources>
